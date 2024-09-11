@@ -7,7 +7,7 @@ The aim of this project is to explore:
 - Additionally, it serves as a practice in applying Python packages for word tokenization and sentiment analysis.
 
 # Dataset
-Dataset collected method: Utilizing the 'google_play_scraper' package to extract only English comments from the webpage.
+Dataset collected method: Utilizing the 'google_play_scraper' package to extract only English comments from the [Google Play Store](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill&hl=en).
 
 # Files
 The project is organized into the following files:
