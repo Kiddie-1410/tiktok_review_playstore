@@ -11,10 +11,12 @@ Dataset collected method: Utilizing the 'google_play_scraper' package to extract
 
 # Files
 The project is organized into the following files:
-- Input: `users_countries_2024.csv`
-- In-between:
-
-- Output: `Report.pdf`
+- Input:
+        `users_countries_2024.csv`
+        `tiktok-users-by-country-2024.csv`
+- Output:
+        `tiktok.pdf`
+        `tiktok.pbit`
 
 # Author
 - [Phong Pham](https://github.com/Kiddie-1410)
